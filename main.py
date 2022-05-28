@@ -32,7 +32,6 @@ class Student:
     def get_score(self): # class method
         print ("Student's score is ", self.score)
 
-
 Bob = Student(name="Bob", age=26, tracks=["FE","BE"],score=20.90)
 
 # Expected methods
