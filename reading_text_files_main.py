@@ -11,7 +11,7 @@ def read_file_content(filename):
     # return "Hello World"
 
 def count_words():
-    text = read_file_content("story.txt")
+    text = read_file_content("./story.txt")
     # [assignment] Add your code here
 
     #create empty dictionary
